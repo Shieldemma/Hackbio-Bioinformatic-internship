@@ -12,15 +12,15 @@ in the world of data science as it relates to buildings models to aid cancer tre
 
 
 ### Effect of the curse of Dimensionality <a id="Effect of the curse of diemnsionality"></a>
-There are several effect that is associated with the curse of dimensionality on the machine model one os such is that there will be complexity in data analysis less accuracy in the prediction oif the machine model. In cancer research there is data generated technology like genomics and proteomics, each sample will generate thousands of attributes with
-such, the efficiency of the statiscal model model and visualization becomes reduced.
-Again there is a problem of of verfitting risk where the model can work efficiently on trained data, but poorly on test data.
-Data Sparsity is another effect of the curse of dimensionality, withe the surge in data volume it might be had to detect meaningful patterns because the data point are spread trhinly across high dimensionaly space.
+There are several effect that is associated with the curse of dimensionality on the machine model one of such is that there will be complexity in data analysis less accuracy in the prediction of the machine model. In cancer research there is data generated technology like genomics and proteomics, each sample will generate thousands of attributes with
+such, the efficiency of the statistical  model and visualization becomes reduced.
+Again there is a problem  of overfitting risk where the model can work efficiently on trained data, but poorly on test data.
+Data Sparsity is another effect of the curse of dimensionality, with the surge in data volume it might be had to detect meaningful patterns because the data point are spread thinly across high dimensionaly space.
 
 ### Combating the Effect of Dimensionality <a id="Combating the Effect of Dimensionality" ></a>
-The first step in comabcting the effect of dimensionality is dimension reduction. A process called PCA (Principal Component Analysis) can be used in Gene Expression Profiling where a data scientist inteprete and visualize (using t.SNT) in lower dimension high dimensional data while preserving the local structure of the data and is able to differentiate 
+The first step in combating the effect of dimensionality is dimension reduction. A process called PCA (Principal Component Analysis) can be used in Gene Expression Profiling where a data scientist interprete and visualize (using t.SNT) in lower dimension high dimensional data while preserving the local structure of the data and is able to differentiate 
 between cancerous tissue and non-cancerous tissue based on the gene expressions patterns.
-Also the process of feature selection, slicing a subset of the atributes from the original data can be used.One os such method is LASSO (Least Absolute Shrinkage and Operator). In cancer research it focuses on most informatives genetic makers.
+Also the process of feature selection, slicing a subset of the attributes from the original data can be used. One of such method is LASSO (Least Absolute Shrinkage and Operator). In cancer research it focuses on most informatives genetic makers.
 
 ### Conclusion<a id="conclusion"></a>
 The Application of Data Science and Machine Learning model to Cancer Research is a vigorous and data packed process. The goal of a model is to have a higher accuracy to predict that which it is model for, Hence the topic of dimensionality of attributes is a MUST as a better understanding will eventually lead to High accuracy of the model.
