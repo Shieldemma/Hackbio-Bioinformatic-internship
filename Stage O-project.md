@@ -1,8 +1,8 @@
 
 ### The curse of Dimensionality: A Basic Introduction <a id="The curse of Dimensionality-a basic introduction"></a>
 
-The world of data science and machine learning is centered around the use of data and algorithm. In recent time there has been surge in accumulation of  data termed "Big Data". Inefficiency in handling big data could lead to inefficient result.The attributes and variables used to build a data model can ehance or reduced the accuracy of the model.
-A dataset with large numbers of attributes is reffered to as "High dimensional Data". such could be a curse or a breakthrough. This esssay focuses on the curse of dimensionality.
+The world of data science and machine learning is centered around the use of data and algorithm. In recent time there has been surge in accumulation of  data termed "Big Data". Inefficiency in handling big data could lead to inefficient result.The attributes and variables used to build a data model can enhance or reduced the accuracy of the model.
+A dataset with large numbers of attributes is referred to as "High dimensional Data". such could be a curse or a breakthrough. This essay focuses on the curse of dimensionality.
 
 ### The curse of Dimensionality <a id="the curse of dimensionality"><a>
 Historically, "the term curse of dimensionality" was first used by Richard E. Bellman back in the 1960s. Bellman stated that "the number of samples needed to estimate an arbitrary function with a given level of accuracy grows exponentially with respect to the number of the input variables(ie dimensionality) of the function. An increase in the data 
