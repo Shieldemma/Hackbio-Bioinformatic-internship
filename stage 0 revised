@@ -1,1 +1,22 @@
 
+The Curse of Dimensionality: A Basic Introduction
+The world of data science and machine learning is centered around the use of data and algorithms. According to Smith (2023), "understanding machine learning algorithms is crucial for harnessing their full potential" (para. 2). In recent times, there has been a surge in the accumulation of data, termed "Big Data." Inefficiencies in handling big data could lead to suboptimal results. The attributes and variables used to build a data model can enhance or reduce the accuracy of the model. A dataset with a large number of attributes is referred to as "High Dimensional Data." This can either be a curse or a breakthrough. This essay focuses on the curse of dimensionality.
+
+The Curse of Dimensionality
+Historically, the term "curse of dimensionality" was first used by Richard E. Bellman in the 1960s. Bellman stated that "the number of samples needed to estimate an arbitrary function with a given level of accuracy grows exponentially with respect to the number of the input variables (i.e., dimensionality) of the function." An increase in data dimension causes the data space to grow, leading to challenges in data analysis and making machine models less accurate. As discussed in a recent blog post, this idea has become foundational in various fields, including data science and machine learning (Gonzalez, 2023). In the world of data science, particularly in building models to aid cancer treatment and research, many variables and attributes are utilized during data collection. Most of the variables also have sub-variables. These attributes range from clinical attributes (e.g., patient demographics, medical history, vital signs), genomic and molecular attributes (e.g., gene expression, mutations, protein expression levels), imaging data, treatment-related variables, and numerous other variables.
+
+Effects of the Curse of Dimensionality
+Several effects are associated with the curse of dimensionality on machine models. One such effect is increased complexity in data analysis, which leads to less accuracy in predictions. In cancer research, technologies like genomics and proteomics generate thousands of attributes per sample. This can reduce the efficiency of statistical models and visualizations. Additionally, there is a risk of overfitting, where the model performs well on training data but poorly on test data. Data sparsity is another effect; with the surge in data volume, it becomes difficult to detect meaningful patterns because the data points are spread thinly across high-dimensional space.
+
+Combating the Effects of Dimensionality
+The first step in combating the effects of dimensionality is dimension reduction. A process called PCA (Principal Component Analysis) can be used in gene expression profiling, allowing data scientists to interpret and visualize high-dimensional data in lower dimensions while preserving the local structure. This helps in differentiating between cancerous and non-cancerous tissue based on gene expression patterns. Another method is feature selection, which involves slicing a subset of attributes from the original data. One such method is LASSO (Least Absolute Shrinkage and Selection Operator), which focuses on the most informative genetic markers in cancer research.
+
+Conclusion
+The application of data science and machine learning models to cancer research is a rigorous and data-intensive process. The goal of a model is to achieve higher accuracy in its predictions. Hence, understanding the dimensionality of attributes is crucial, as a better understanding will eventually lead to higher accuracy of the model.
+
+References
+Bellman, R. E. (1961). Dynamic programming. Princeton University Press.
+
+Gonzalez, J. (2023, September 10). Curse of dimensionality: An intuitive exploration. Towards Data Science. https://towardsdatascience.com/curse-of-dimensionality-an-intuitive-exploration-1fbf155e1411
+
+Smith, J. (2023, August 15). Understanding machine learning algorithms. Tech Insights Blog. https://www.techinsightsblog.com/machine-learning-algorithms
