@@ -27,5 +27,7 @@ The Application of Data Science and Machine Learning model to Cancer Research is
 
 ### References<a id="References"></a>
 Bellman, R. E. (1961). Dynamic programming. Princeton University Press.
+
 Gonzalez, J. (2023, September 10). Curse of dimensionality: An intuitive exploration. Towards Data Science. https://towardsdatascience.com/curse-of-dimensionality-an-intuitive-exploration-1fbf155e1411
+
 Smith, J. (2023, August 15). Understanding machine learning algorithms. Tech Insights Blog. https://www.techinsightsblog.com/machine-learning-algorithms
