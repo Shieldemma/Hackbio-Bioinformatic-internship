@@ -15,6 +15,9 @@ The objective  of the research is to develop and validate a machine learning mod
 accurately   predict   the   pathological   complete   response   (PCR)   following   neoadjuvant
 chemotherapy, a critical outcome for breast cancer patients.
 
+### Overview of the study design
+![overview of stage 1 study design](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-04278-5/MediaObjects/41586_2021_4278_Fig1_HTML.png?as=webp)
+
 ### Methodology
 The study assembled a large and diverse cohort of breast cancer patients, ensuring a
 representative sample for model development and validation.
