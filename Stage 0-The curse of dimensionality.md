@@ -8,7 +8,7 @@ The term "curse of dimensionality" was introduced by Richard E. Bellman in the 1
 ### Effect of the curse of Dimensionality <a id="Effect of the curse of diemnsionality"></a>
 The curse of dimensionality can lead to several issues. Increased complexity in data analysis often results in reduced model accuracy. In cancer research, technologies like genomics and proteomics generate thousands of attributes per sample, which can impair the efficiency of statistical models and visualizations. Overfitting is another problem, where a model performs well on training data but poorly on new, unseen data. Data sparsity also arises, as the data points are thinly spread across high-dimensional space, making it difficult to detect meaningful patterns.
 
-### Effect of the curse of Dimensionality <a id="Effect of the curse of diemnsionality"></a>
+### Combating the Effect of Dimensionality <a id="Combating the Effect of Dimensionality"></a>
 Addressing dimensionality involves dimension reduction techniques. Principal Component Analysis (PCA) is used to reduce dimensionality in gene expression profiling, allowing data scientists to visualize high-dimensional data in lower dimensions while maintaining its structure. This helps differentiate between cancerous and non-cancerous tissues based on gene expression patterns. Feature selection methods, such as LASSO (Least Absolute Shrinkage and Selection Operator), also focus on the most informative attributes, particularly in cancer research.
 
 ### Conclusion<a id="conclusion"></a>
